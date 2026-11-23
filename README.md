@@ -33,7 +33,7 @@ Most of my day-to-day engineering lives in commercial product repositories. Here
 
 - **[Yuppo](https://yuppo.org)** — *Software Engineering Intern* · Multilingual SEO (canonicals, `hreflang`, sitemaps, structured data), 7-language AI blog automation pipeline with editorial review, and Python/FastAPI backend engineering.
 - **[Frostium](https://frostium.io)** — *Software Development Contributor* · Product feature development with Svelte, Tailwind CSS, GraphQL, and Zod.
-- **[SafeNLP](https://github.com/safenlp)** — *AI Safety Community Member & Contributor* · AI safety reading, research, and frontend contributions to an AI evaluation platform ([IISEC 2026 LLM Vulnerability Eval](https://github.com/safenlp/iisec2026-llm-vulnerability-eval)).
+- **SafeNLP** — *AI Safety Community Member & Project Contributor* · AI safety reading, research, and frontend contributions to an AI evaluation platform.
 
 ---
 
