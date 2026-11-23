@@ -25,7 +25,6 @@ Most of my day-to-day engineering lives in commercial product repositories. Here
 
 - **[metonia-admin](https://github.com/furkanilkturk/metonia-admin)** ([`create-metonia-admin` on npm](https://www.npmjs.com/package/create-metonia-admin)) — CLI generator for native SvelteKit 5 admin apps with `shadcn-svelte`, Drizzle ORM, and PostgreSQL—no hidden runtime.
 - **[metonia](https://github.com/furkanilkturk/metonia)** & **[pi-skills](https://github.com/furkanilkturk/pi-skills)** — Plain-Markdown Obsidian + Pi knowledge operating system built from scoped agent spaces, with provider-agnostic subagent dispatch and context resolution.
-- **[fluid-ui-svelte](https://github.com/furkanilkturk/fluid-ui-svelte)** ([fluidui.io](https://fluidui.io)) — 30-component Svelte 5 / SvelteKit UI library with runtime-reactive Tailwind CSS v4 theme tokens and theme editor.
 - **[modular-blog-platform](https://github.com/furkanilkturk/modular-blog-platform)** ([Live Demo](https://modular-blog-platform-tau.vercel.app)) — React architecture case study: discriminated-union block engine, Notion-like in-place TipTap canvas editor, drag-and-drop reordering, and MSW mock backend.
 
 ---
