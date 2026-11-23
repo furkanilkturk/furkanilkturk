@@ -1,6 +1,6 @@
 # Mustafa Furkan İlktürk
 
-**Software Engineer & Startup Founder** · Full-Stack Product Development · Istanbul, Türkiye
+**Software Engineer** · Full-Stack Product Development · Istanbul, Türkiye
 
 [Portfolio](https://furkanilkturk.com) · [LinkedIn](https://www.linkedin.com/in/mustafafurkanilkturk/) · [Email](mailto:furkanilkturk@gmail.com)
 
